@@ -81,7 +81,9 @@ img.pull-left { margin-right: 10px; }
 	.widget-simplenav { margin-left:-5px; }		
 	.widget-simplenav a{ margin:0 5px; }
 
-	
+
+/* perso */
+
 /* Dropdown hover */
 
 	.dropdown-submenu {
@@ -131,3 +133,9 @@ img.pull-left { margin-right: 10px; }
 		-moz-border-radius: 6px 0 6px 6px;
 		border-radius: 6px 0 6px 6px;
 	}
+
+/* misc */
+
+li {
+	text-align: justify;
+}
