@@ -10,7 +10,7 @@
 	<!-- container -->
 	<div class="container">
 
-		<?php require("includes/projetCategories.php"); ?>
+		<?php require("includes/smartmirrorCategories.php"); ?>
 
 		<div class="row">
 			
@@ -31,7 +31,7 @@
 
 		</div>
 
-		<?php require("includes/projetCategories.php"); ?>
+		<?php require("includes/smartmirrorCategories.php"); ?>
 
 	</div>	<!-- /container -->
 	

@@ -1,6 +1,6 @@
 <?php
-$categories = ["objectifs.php", "deroulement.php", "gestion-projet.php", "bilan.php"];
-$intitules = ["Introduction et objectifs", "Déroulement du projet", "Gestion de projet", "Bilan et perspectives"];
+$categories = ["introduction.php", "materiel.php", "tuto_utilisation.php"];
+$intitules = ["Introduction", "Matériel et prérequis", "Installer et utiliser SmartMirror"];
 ?>
 <ol class="breadcrumb">
 	<?php 

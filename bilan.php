@@ -2,22 +2,15 @@
 <html lang="fr">
 
 <?php require("includes/head.php"); ?>
-<body>
+<body class="home">
 <?php require("includes/navbar.php"); ?>
-
 
 	<header id="head" class="secondary"></header>
 
 	<!-- container -->
 	<div class="container">
 
-		<ol class="breadcrumb">
-			<li><a href="objectifs.html">Objectifs</a></li>
-			<li><a href="materiel.html">Matériel et pré-requis</a></li>			
-			<li>Recueil des données</li>
-			<li><a href="tuto_fabrication.html">Tutoriel de fabrication</a></li>
-			<li><a href="tuto_utilisation.html">Tutoriel d'utilisation</a></li>
-		</ol>
+		<?php require("includes/projetCategories.php"); ?>
 
 		<div class="row">
 			
@@ -72,39 +65,11 @@
 
 		</div>
 
-		<ol class="breadcrumb">
-			<li><a href="objectifs.html">Objectifs</a></li>
-			<li><a href="materiel.html">Matériel et pré-requis</a></li>			
-			<li>Recueil des données</li>
-			<li><a href="tuto_fabrication.html">Tutoriel de fabrication</a></li>
-			<li><a href="tuto_utilisation.html">Tutoriel d'utilisation</a></li>
-		</ol>
+		<?php require("includes/projetCategories.php"); ?>
 
 	</div>	<!-- /container -->
-	
 
-	<footer id="footer" class="top-space">
-
-		<div class="footer2">
-			<div class="container">
-				<div class="row">
-
-					<div class="col-md-6 col-md-offset-6 widget">
-						<div class="widget-body">
-							<p class="text-right">
-								Designed by <a href="http://gettemplate.com/" rel="designer">gettemplate</a>, modified by <a href="https://ensc.bordeaux-inp.fr/fr">ENSC</a> students. 
-							</p>
-						</div>
-					</div>
-
-				</div> <!-- /row of widgets -->
-			</div>
-		</div>
-
-	</footer>	
-		
-
-
+<?php require("includes/footer.php"); ?>	
 <?php require("includes/dependencies.php"); ?>
 </body>
 </html>

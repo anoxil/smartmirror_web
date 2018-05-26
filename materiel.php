@@ -10,7 +10,7 @@
 	<!-- container -->
 	<div class="container">
 
-	<?php require("includes/projetCategories.php"); ?>	
+	<?php require("includes/smartmirrorCategories.php"); ?>	
 
 		<div class="row">
 			
@@ -32,14 +32,14 @@
 					</ul>
 				</p>
 
-				<img src="assets/images/materiel.png" height=50% width=50%>
+				<img src="assets/images/materiel/materiel.png" height=50% width=50%>
 			
 			</article>
 			<!-- /Article -->
 
 		</div>
 
-	<?php require("includes/projetCategories.php"); ?>
+	<?php require("includes/smartmirrorCategories.php"); ?>
 
 	</div>	<!-- /container -->
 	

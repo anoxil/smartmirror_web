@@ -10,12 +10,7 @@
 	<!-- container -->
 	<div class="container">
 
-		<ol class="breadcrumb">
-			<li><a href="introduction.html">Introduction</a></li>
-			<li><a href="evolution.html">Évolutions du projet</a></li>
-			<li>Gestion de projet</li>
-			<li><a href="futur.html">Avancements futurs</a></li>
-		</ol>
+		<?php require("includes/projetCategories.php"); ?>
 
 		<div class="row">
 			
@@ -28,25 +23,20 @@
 
 				<h2>Semestre 1</h2>
 				<p>Voici le planning suivi au cours du Semestre 1 : </p>
-				<p><img src="../images/GanttS1.png" alt=""></p>
+				<p><img src="assets/images/GanttS1.png" alt=""></p>
 
 				<blockquote></br></br></blockquote>
 				
 				<h2>Semestre 2 </h2>
 				<p>Voici le planning suivi au cours du Semestre 2 : </p>
-				<p><img src="../images/GanttS2.png" alt=""></p>
+				<p><img src="assets/images/GanttS2.png" alt=""></p>
 			</article>
 			<!-- /Article -->
 			
 
 		</div>
 
-		<ol class="breadcrumb">
-			<li><a href="introduction.html">Introduction</a></li>
-			<li><a href="evolution.html">Évolutions du projet</a></li>
-			<li>Gestion de projet</li>
-			<li><a href="futur.html">Avancements futurs</a></li>
-		</ol>
+		<?php require("includes/projetCategories.php"); ?>
 
 	</div>	<!-- /container -->
 	
