@@ -5,6 +5,8 @@
 <body class="home">
 <?php require("includes/navbar.php"); ?>
 
+<?php print_r($_SERVER['PHP_SELF'])?>
+
 	<!-- Header -->
 	<header id="head">
 		<div class="container">
