@@ -17,25 +17,27 @@
 			<!-- Article main content -->
 			<article class="col-md-8 maincontent">
 				<header class="page-header">
-					<h1 class="page-title">Nos objectifs</h1>
+					<h1 class="page-title">Les objectifs</h1>
 				</header>
 				
-				<p>
-					L’objectif est de concevoir un miroir connecté, destiné à la pièce principale du domicile, qui permettrait d’améliorer le quotidien des étudiants 
-					en leur apportant des informations contextualisées (météo selon les lieux de déplacement, perturbations de la circulation selon le trajet à 
-					effectuer, changements d’emploi du temps, etc.). Il permettra aux utilisateur de :
+				<h2>L'objectif général</h2><br/><br/>
+				<p><b>L'objectif : </b> Concevoir un miroir intelligent, permettant d'améliorer le quotidien de ses utilisateurs, en se basant sur l'emploi du temps.</p>
+				<p><b>Les utilisateurs : </b> Le public visé sont les étudiants, qui sont les personnes les plus susceptibles d'avoir leur emploi du temps en ligne.</p> 
+				<p><b>L'emplacement : </b>Il est destiné à la pièce principale du domicile.</p>
+				<p><b>L'innovation : </b>Fournir des informations <u>contextualisées</u>.
+				
+				<h2>Les fonctionnalités</h2><br/><br/>
+				<p><img src="assets/images/Fonctions.png" alt=""></p>
+				<p>Le miroir apportera à ses utilisateurs des informations sur : </p>
 					<ul>
-					<li>disposer de la météo, de la ville de domicile ou d’ailleurs en fonction des lieux de déplacement éventuels,</li>
-					<li>disposer des horaires des transport en commun (Tram ou bus) pour les arrêts proches du domicile, </li>
-					<li>être informé des éventuelles perturbations sur les lignes de transport (interruption du Tram, retards à prévoir, grève des transports, etc.)</li>
-					<li>être informé des éventuelles perturbations de circulation, du trafic routier, sur les trajets effectués régulièrement, </li>
-					<li>afficher les événements importants à venir, dans la journée ou les journées à venir, </li>
-					<li>afficher son emploi du temps, mis à jour en direct afin d’être informé des éventuels changements d’emploi du temps, </li>
-					<li>afficher son calendrier, avec vue sur les différentes journées, </li>
-					<li>recevoir des alarmes pour les événements à venir, ou des rappels tels que des médicaments à prendre,... </li>
+					<li>La météo de la ville de domicile, ou d'ailleurs en fonction des déplacements éventuels ; </li>
+					<li>Les horaires des transports en commun, pour les arrêts proches du domicile, en fonction des lieux des prochains événements ; </li>
+					<li>Les éventuelles perturbations sur les lignes de transport (interruption, retard, grève,...) ;</li>
+					<li>Les éventuelles perturbations du trafic routier, sur les trajets effectués régulièrement (embouteillages, accidents,...) ; </li>
+					<li>Les prochains événements à venir, avec une mise à jour en direct de l'emploi du temps, afin d'être informé des éventuels modifications ; </li>
+					<li>Les actualités.</li>
 					</ul>
 					
-					Le produit final attendu est la réalisation d’un miroir connecté fonctionnel, proposant toutes les fonctions que nous avons définis plus haut.
 				</p>
 			</article>
 			<!-- /Article -->
