@@ -23,13 +23,12 @@
 
 				<h2>Semestre 1</h2>
 				<p>Voici le planning suivi au cours du Semestre 1 : </p>
-				<p><img src="assets/images/GanttS1.png" alt=""></p>
+				<p><img src="assets/images/gestionDeProjet/GanttS1.png" alt=""></p>
 
-				<blockquote></br></br></blockquote>
 				
 				<h2>Semestre 2 </h2>
 				<p>Voici le planning suivi au cours du Semestre 2 : </p>
-				<p><img src="assets/images/GanttS2.png" alt=""></p>
+				<p><img src="assets/images/gestionDeProjet/GanttS2.png" alt=""></p>
 			</article>
 			<!-- /Article -->
 			

@@ -4,8 +4,9 @@ $intitules = ["Introduction", "Matériel et prérequis", "Installer et utiliser 
 ?>
 <ol class="breadcrumb">
 	<?php 
+	$currentPage = $_SERVER['PHP_SELF'];
 	for ($c = 0 ;$c < count($categories); $c++){
-		if ("/smartmirror_web/" .  $categories[$c] == $_SERVER['PHP_SELF']){?>
+		if ($categories[$c] == substr($currentPage, strlen($currentPage) - strlen($categories[$c]) )) { ?>
 			<li><?php echo $intitules[$c] ?></li>
 		<?php
 		}
