@@ -24,7 +24,7 @@
 							<li class="active"><a href="objectifs.php">Introduction et objectifs</a></li>
 							<li><a href="deroulement.php">Déroulement du projet</a></li>
 							<li><a href="gestion-projet.php">Gestion de projet</a></li>
-							<li><a href="bilan.php">Avancements futurs</a></li>
+							<li><a href="bilan.php">Bilan et perspectives</a></li>
 						</ul>
 					</li>
 					<li><a class="btn" href="https://github.com/Fabien-Couthouis/SmartMirror" target="_blank"> <i class="fa fa-github"></i> Github SmartMirror</a></li>
