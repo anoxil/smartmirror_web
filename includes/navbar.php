@@ -13,7 +13,7 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">SmartMirror<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="introduction.php">Introduction</a></li>
+							<li><a href="presentation.php">Présentation</a></li>
 							<li><a href="materiel.php">Matériel et pré-requis</a></li>
 							<li><a href="tuto_utilisation.php">Installer et utiliser SmartMirror</a></li>
 						</ul>

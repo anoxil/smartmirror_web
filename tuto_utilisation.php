@@ -21,7 +21,7 @@
 				</header>
 				<table>
 						<tr>
-						<td> <iframe src="assets/documents/docUtilisateur.pdf" width=400% height=1000% align="middle"></iframe></td>
+						<td> <iframe src="assets/documents/documentation.pdf" width=400% height=1000% align="middle"></iframe></td>
 						</tr>
 				</table>
 
