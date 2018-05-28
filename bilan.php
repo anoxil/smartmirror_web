@@ -36,7 +36,6 @@
 				<p> 1. Des plannings à respecter</p> 
 				<p> 2. Un Cahier des Charges à respecter</p> 
 				<p> 3. La gestion d'un travail en équipe</p> 
-				<p><img src="assets/images/Equipe.png" alt=""></p>
 	
 				<h2>Les difficultés rencontrées</h2>
 				<p>1. Concevoir un produit innovant, dans un domaine où de nombreuses solutions sont déjà proposées </p>
@@ -44,13 +43,14 @@
 				<p>3. Une reconnaissance vocale peu réactive, qui nécessite du temps d'attente et de bien articuler</p>
 				<p>4. Des difficultés lors de l'intégration du module des transports en commun. Le module initial ne présentait les transports en commun pour certaines villes seulement</p>
 				<p>5. Utilisation d'un micro issu d'une webcam, de faible qualité</p>
+				<p>6. Un membre du projet ayant quitté l'école</p>
 
 				<header class="page-header">
 					<h1>Les perspectives</h1>
 				</header>
-				<p> 1. Approfondir l'aspect contextualisation, en proposant notamment la météo du lieu du prochain événement </p> 
+				<p> 1. Approfondir l'aspect contextualisation, en proposant par exemple la météo du lieu du prochain événement </p> 
 				<p> 2. Conception d'une application User-Friendly, pour la configuration du miroir </p> 
-				<p> 3. Ajout de modules, et de la possibilité de personnaliser leur affichage</p> 
+				<p> 3. Ajout de modules</p> 
 				<p> 4. Amélioration de la reconnaissance vocale </p>
 		
 			</article>

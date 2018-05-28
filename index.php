@@ -61,7 +61,7 @@
 				<div class="col-sm-6">
 						<h3>Puis-je reprendre votre projet ou une partie de celui-ci pour le modifier à ma guise ?</h3>
 						<p>
-							Bien sûr ! SmartMirror, MagicMirror et Kalliope sont distribué librement sous <a href = "https://github.com/Fabien-Couthouis/MagicMirror/blob/master/LICENSE.md">license MIT</a>.
+							Bien sûr ! SmartMirror, MagicMirror et Kalliope sont distribués librement sous <a href = "https://github.com/Fabien-Couthouis/MagicMirror/blob/master/LICENSE.md">license MIT</a>.
 						</p>
 					</div>
 					<div class="col-sm-6">

@@ -56,13 +56,13 @@
 
 				<div class="row">
 					<div class="col-sm-6 col-sm-offset-3 col-md-2 col-md-offset-2">
-						<h4>Quentin Chibaudel</h4>
+						<h4><a href="https://fr.linkedin.com/in/quentin-c-554b65a7?trk=prof-samename-name">Quentin Chibaudel</a></h4>
 					</div>
 					<div class="col-sm-6 col-sm-offset-3 col-md-2 col-md-offset-1">
-						<h4>Damien Marion</h4>
+						<h4><a href="https://fr.linkedin.com/in/damien-marion-48961389">Damien Marion</a></h4>
 					</div>
 					<div class="col-sm-6 col-sm-offset-3 col-md-2 col-md-offset-1">
-						<h4>Baptiste Prébot</h4>
+						<h4><a href="https://fr.linkedin.com/in/baptiste-prébot-286a8b46">Baptiste Prébot</a></h4>
 					</div>
 				</div>
 	</div>	<!-- /container -->

@@ -38,7 +38,7 @@
 
 				<div>
 					<figure class="text-center">
-						<img src="assets/images/miroirInterface.png" controls width="600"></img>
+						<img onclick="window.open(this.src); return false;" src="assets/images/miroirInterface.png" controls width="600"></img>
 							
 						<figcaption>Interface par défaut du miroir</figcaption>
 					</figure>
@@ -47,7 +47,7 @@
 
 				<div>
 					<figure class="text-center">
-						<img src="assets/images/miroir2.jpg" controls width="600"></img>
+						<img onclick="window.open(this.src); return false;" src="assets/images/miroir2.jpg" controls width="600"></img>
 							
 						<figcaption>Le miroir et son cadre</figcaption>
 					</figure>
@@ -134,11 +134,12 @@
 		</div>
 
 		<?php require("includes/smartmirrorCategories.php"); ?>
+		
 
 	</div>	<!-- /container -->
-	
 
-<?php require("includes/footer.php"); ?>	
-<?php require("includes/dependencies.php"); ?>
+	<?php require("includes/footer.php"); ?>	
+	<?php require("includes/dependencies.php"); ?>
+
 </body>
 </html>
