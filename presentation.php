@@ -37,7 +37,7 @@
 				<br>
 
 				<div>
-					<figure class="text-center">
+					<figure>
 						<img onclick="window.open(this.src); return false;" src="assets/images/miroirInterface.png" controls width="600"></img>
 							
 						<figcaption>Interface par défaut du miroir</figcaption>
@@ -46,7 +46,7 @@
 				<br>
 
 				<div>
-					<figure class="text-center">
+					<figure>
 						<img onclick="window.open(this.src); return false;" src="assets/images/miroir2.jpg" controls width="600"></img>
 							
 						<figcaption>Le miroir et son cadre</figcaption>
@@ -55,7 +55,7 @@
 				<br>
 
 				<div>
-					<figure class="text-center">
+					<figure>
 						<video src="assets/videos/actualites.mp4" controls width="600"></video>
 							
 						<figcaption>Actualités</figcaption>
@@ -64,7 +64,7 @@
 				<br>
 
 				<div>
-					<figure class="text-center">
+					<figure>
 						<video src="assets/videos/agenda.mp4" controls width="600"></video>
 							
 						<figcaption>Agenda</figcaption>
@@ -73,7 +73,7 @@
 				<br>
 
 				<div>
-					<figure class="text-center">
+					<figure>
 						<video src="assets/videos/meteo.mp4" controls width="600"></video>
 							
 						<figcaption>Météo</figcaption>
@@ -82,7 +82,7 @@
 				<br>
 
 				<div>
-					<figure class="text-center">
+					<figure>
 						<video src="assets/videos/traffic.mp4" controls width="600"></video>
 							
 						<figcaption>Trafic</figcaption>
@@ -91,7 +91,7 @@
 				<br>
 
 				<div>
-					<figure class="text-center">
+					<figure>
 						<video src="assets/videos/veille.mp4" controls width="600"></video>
 							
 						<figcaption>Veille</figcaption>

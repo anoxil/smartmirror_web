@@ -21,12 +21,18 @@
 				</header>
 
 				<h2>Organisation</h2>
-				<p>Durant le 1er semestre, nous avons tous travaillé sur l'état de l'art et la première version du cachier des charges.
+				<p class="text-justify">Durant le 1er semestre, nous avons tous travaillé sur l'état de l'art et la première version du cachier des charges.
 				Nous organisions régulièrement des séances de travail communes. Cela a permis un travail collaboratif et une compréhension
-				homogène de l'existant et des différentes problématiques posées.Nous nous sommes ensuiterépartis en 2 pôles à partir du 2ème
+				homogène de l'existant et des différentes problématiques posées.Nous nous sommes ensuite répartis en 2 pôles à partir du 2ème
 				semestre, avec une <strong>équipe développement</strong> et une équipe <strong>facteur humain</strong>.
 				(voir<a href="team.php"> page team</a>). </p>
-				<p><img src="assets/images/Equipe.png" alt=""></p>
+
+				<h2>Communication</h2>
+				<figure>
+					<img onclick="window.open(this.src); return false;" src="assets/images/Equipe.png" alt="">
+						
+					<figcaption>Communication via différents outils et des réunions fréquentes</figcaption>
+				</figure>
 
 				<h2>Plannings</h2>
 				<p>L'avancement de la réalisation de notre miroir connecté est représentée sur les Diagrammes de Gantt suivants. </p>

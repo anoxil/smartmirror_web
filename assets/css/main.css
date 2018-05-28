@@ -16,12 +16,10 @@
 	#head .lead { font-size: 34px; }
 }
 @font-face {
-    font-family: "Jupiter";
+    font-family: "Futurist";
     src: url("../fonts/jupiter.ttf") format("truetype");
 }
-.logo { 
-    font-family: "Jupiter", "Open sans", Helvetica, Arial;
-}
+
 
 
 /* Autohide navbar */
@@ -143,6 +141,21 @@ img.pull-left { margin-right: 10px; }
 
 /* misc */
 
+.logo { 
+	font-family: "Futurist", "Open sans", Helvetica, Arial;
+}
 li {
 	text-align: justify;
+}
+
+p {
+	text-align: justify;
+}
+
+figcaption{
+	font-style: italic;
+}
+
+figure{
+	text-align: center;
 }
