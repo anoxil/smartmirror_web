@@ -23,7 +23,7 @@
 		<br> <br>
 		<h2 class="thin">Un miroir connecté pensé pour l'utilisateur </h2>
 		<p class="text-muted">
-			SmartMirror est une été pensé et conçu pour l'utilisateur. Nous nous sommes basés sur <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a>
+			SmartMirror a été pensé et conçu pour l'utilisateur. Nous nous sommes basés sur <a href="https://github.com/MichMich/MagicMirror">MagicMirror</a>
 			et sur <a href="https://github.com/kalliope-project/kalliope">Kalliope</a> pour la reconnaissance vocale.
 			Nous avons développé nos propres modules MagicMirror pour une expérience unique.
 		</p>
