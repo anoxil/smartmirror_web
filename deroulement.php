@@ -104,6 +104,7 @@
 						module permettant de visualiser l'état de Kalliope.</a></li>
 						<li>Développement du <a href="https://github.com/Fabien-Couthouis/MMM-Bordeaux-Transports">module de transports en commun.</a></li>
 						<li>Configuration de la reconnaissance vocale.</li>
+						<li>Écriture de la documentation.</li>
 					</ul>	
 				</p>
 				<h3>4. Évaluation des solutions (Semestre 2)</h3>
