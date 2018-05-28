@@ -108,8 +108,17 @@
 					</ul>	
 				</p>
 				<h3>4. Évaluation des solutions (Semestre 2)</h3>
+				<p>
+					<ul>
+						<li> Élaboration d'un <a href="assets/documents/Protocole test orga papier.pdf">protocole de test</a> afin de vérifier l'utilisabilité du miroir par des utilisateurs étrangers au système. </li>
+						<li><a href="assets/documents/ResTestUtil - Feuille 1.pdf">Analyse des résultats</a> et modification ou ajout de certains mots clés pour la détection vocale.</li>
+						<li>découverte d'une mauvaise reconaissance des mots clés si précédés dun " L' ".</li>
+						<li>Ajout d'une fonction RaZ qui ferme tous les modules ouverts ainsi que d'un mode veille qui passe l'écran du miroir en veille.</li>
+					</ul>	
+				</p>
+				<br>
 					<p><img src="assets/images/evolutions/Etape3.png" alt=""></p>
-				<h3>5. La solution satisfait aux exigences des utilisateurs</h3>
+				<h3>5. La solution satisfait les exigences des utilisateurs</h3>
 				
 				
 			</article>
