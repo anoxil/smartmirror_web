@@ -118,14 +118,21 @@
 				</p>
 				<br>
 					<p><img src="assets/images/evolutions/Etape3.png" alt=""></p>
-				<h3>5. Ajout final dans le cadre d'une conception verte</h3>
+					
+				<h3>5. La solution satisfait les exigences des utilisateurs</h3>
+				
+				<br>
+				<h3>Plan vert</h3>
 				<p>
 					<ul>
 						<li>Nous avons fait en sorte que notre miroir n'apporte aucun stress à l'utilisateur comme des alertes qu'il pourrait recevoir contre sa volonté. En effet, un de nos objectifs était de créer un objet agréable et reposant à utiliser, c'est pourquoi nous avons supprimé le retour vocal du miroir.</li>
-						<li>Afin de prendre en compte la problématique environnementale en compte, nous avons décidé d'implémenter une fonction de mise en veille du miroir qui limite ainsi sa consommation électrique lorsque son utilisation n'est pas requise.</li>
+						<li>Afin de prendre en compte la problématique environnementale en compte, 
+						nous avons décidé d'implémenter une fonction de mise en veille du miroir qui limite 
+						ainsi sa consommation électrique lorsque son utilisation n'est pas requise.
+						De plus, la plupart du matériel utilisé est du matériel recyclé.</li>
 					</ul>
 				</p>
-				<h3>6. La solution satisfait les exigences des utilisateurs</h3>
+				
 				
 				
 			</article>
