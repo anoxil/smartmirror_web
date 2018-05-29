@@ -21,7 +21,7 @@
 					<li class="dropdown">
 						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Le projet<b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li class="active"><a href="objectifs.php">Introduction et objectifs</a></li>
+							<li><a href="objectifs.php">Introduction et objectifs</a></li>
 							<li><a href="deroulement.php">Déroulement du projet</a></li>
 							<li><a href="gestion-projet.php">Gestion de projet</a></li>
 							<li><a href="bilan.php">Bilan et perspectives</a></li>
