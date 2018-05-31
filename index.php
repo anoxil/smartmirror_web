@@ -11,8 +11,10 @@
 		<div class="container">
 			<div class="row">
 				<h1 class="lead">SMART MIRROR</h1>
-				<p class="tagline">Projet Transdisciplinaire 1A 2017-18</p>
-				<p><a class="btn btn-default btn-lg" role="button" href="objectifs.php">En savoir plus ...</a> <a class="btn btn-action btn-lg" role="button" href="https://github.com/Fabien-Couthouis/SmartMirror/archive/master.zip" target="_blank">TÉLÉCHARGER</a></p>
+				<div class="tagline">Projet Transdisciplinaire 1A 2017-18</div>
+				<div><a class="btn btn-default btn-lg" role="button" href="objectifs.php">En savoir plus ...</a>
+				<a class="btn btn-action btn-lg text-center" role="button" href="https://github.com/Fabien-Couthouis/SmartMirror/archive/master.zip" 
+				target="_blank">TÉLÉCHARGER</a></div>
 			</div>
 		</div>
 	</header>
