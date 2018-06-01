@@ -34,13 +34,13 @@
 
 				<div class="row">
 					<div class="col-sm-6 col-sm-offset-3 col-md-2 col-md-offset-3">
-						<a href="https://github.com/Fabien-Couthouis/" target="_blank"><img src="assets/images/team/man3.png" alt="Victor Garruchet" style="border-radius: 50%;"></a>
+						<a href="https://github.com/V-Garruchet/" target="_blank"><img src="assets/images/team/man3.png" alt="Victor Garruchet" style="border-radius: 50%;"></a>
 						<h4 style="text-align: center;">Victor Garruchet</h4>
 						<h5 style="text-align: center;">Team Facteur Humain</h5>						
 					</div>
 
 					<div class="col-sm-6 col-sm-offset-3 col-md-2 col-md-offset-2">
-						<a href="https://github.com/Fabien-Couthouis/" target="_blank"><img src="assets/images/team/woman1.png" alt="Margot Triscos" style="border-radius: 50%;"></a>
+						<a href="https://github.com/mtriscos/" target="_blank"><img src="assets/images/team/woman1.png" alt="Margot Triscos" style="border-radius: 50%;"></a>
 						<h4 style="text-align: center;">Margot Triscos</h4>
 						<h5 style="text-align: center;">Team Facteur Humain</h5>						
 					</div>
