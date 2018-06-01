@@ -27,7 +27,7 @@
 				<p><b>L'innovation : </b>Fournir des informations <u>contextualisées</u>.
 				
 				<h2>Les fonctionnalités</h2><br/><br/>
-				<p><img src="assets/images/Fonctions.png" alt=""></p>
+				<p><img src="assets/images/fonctions.png" alt=""></p>
 				<p>Le miroir apportera à ses utilisateurs des informations sur : </p>
 					<ul>
 					<li>La météo de la ville de domicile, ou d'ailleurs en fonction des déplacements éventuels ; </li>

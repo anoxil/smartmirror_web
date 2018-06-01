@@ -38,7 +38,7 @@
 
 				<div>
 					<figure>
-						<img onclick="window.open(this.src); return false;" src="assets/images/miroirInterface.png" controls width="600"></img>
+						<img onclick="window.open(this.src); return false;" src="assets/images/miroirinterface.png" controls width="600"></img>
 							
 						<figcaption>Interface par défaut du miroir</figcaption>
 					</figure>

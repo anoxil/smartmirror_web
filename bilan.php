@@ -24,7 +24,7 @@
 				<h3>En informatique</h3>
 				<p>1. Mise en pratique de nos apprentissages en langages de programmation web</p>
 				<p>2. Approfondissement de ces connaissances</p>
-				<p><img src="assets/images/Langages.png" alt=""></p>
+				<p><img src="assets/images/langages.png" alt=""></p>
 				
 				
 				<h3>En Conception Centrée Utilisateurs</h3>
