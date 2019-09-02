@@ -3,10 +3,7 @@
   "builds": [
     {
       "src": "*.php",
-      "use": "@juicyfx/php@canary",
-      "config": {
-        "composer": true
-      }
+      "use": "@juicyfx/php@canary"
     }
   ]
 }
