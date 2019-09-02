@@ -1,6 +1,6 @@
 {
     "version": 2,
     "builds": [
-      { "src": "index.php", "use": "@Fabien-Couthouis/smartmirror_web" }
+      { "src": "index.php", "use": "@couthouisfabien/smartmirrorweb" }
     ]
 }
