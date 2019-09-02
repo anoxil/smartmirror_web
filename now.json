@@ -4,6 +4,10 @@
     {
       "src": "*.php",
       "use": "@juicyfx/php@canary"
+    },
+    {
+      "src": "!*.php",
+     "use": "@now/static"
     }
   ]
 }
