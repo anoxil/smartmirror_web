@@ -3,7 +3,7 @@
   "builds": [
     {
       "src": "*.php",
-      "use": "@now/node-server@0.4.26"
+      "use": "now-php"
     },
     {
       "src": "!*.php",
